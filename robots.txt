@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://arapihu.github.io/bqQ/bqQ.txt
